@@ -1,0 +1,11 @@
+* [x] View Reservations for Host
+* [x] Make a Reservation
+* [x] Edit a Reservation
+* [x] Cancel a Reservation
+* [x] File Format Unaltered
+* [x] Spring DI
+* [x] Proper BigDecimal/LocalDate Usage
+* [x] Data and Domain Tests
+* [x] Deliverables (planning, task schedule, Maven project, test suite)
+* [x] Java Idioms (excellent layering, class design, method responsibilities, and naming)
+* [x] Pattern Awareness (complete understanding of patterns: repository, service, MVC)
